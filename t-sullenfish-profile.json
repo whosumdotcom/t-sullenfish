@@ -1,0 +1,48 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T16:52:00Z",
+  "IdClaims": [
+    {
+      "Claim": "t:sullenfish"
+    },
+    {
+      "Claim": "gh:sullenfish"
+    },
+    {
+      "Claim": "yt:@sullenfish"
+    },
+    {
+      "Claim": "mdon:@sullenfish@mastodon.sdf.org"
+    },
+    {
+      "Claim": "med:frederickostrander"
+    },
+    {
+      "Claim": "post:sullenfish"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "902141e339d1e31b6c484f53",
+    "Timestamp": "2023-04-06T17:22:29Z",
+    "Signature": "868af5327b2e51b5673afc82e711385d4bafb4444f74f3ac68c61fa8fff62d300039a2f0433739056ce47a1b1589ddbb1abfa546d68775fd653b603c5d74e5797db265c01841f39f9ecf949057cb8692cd231751e9a30d23b2d0f203984bb4662f2cd526556752f6584ee8e30d8de92154b4329882ffb76f3ce03c7e7968afa48dee8370728865db9dbef6c1a665d6edafe16b8e66e9c525ccdbb6defc199b88c073f04662356da6f81fb352b7cb8c45e693c8a3f61f8576bc2428fd8c28052bd61d46258b036492de175e7a2d2de1a0a577a3775cc3b4c8d6189502144c00b0c633f13c3c8efa66785a4a0f4bdd9cd250039f205f9b261c7b4d459f8a6cd504"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "c3355afdfbb598ba2b32107ee2675b08b721066172a28f7ca113372c608188ae",
+  "ContentToHash": "v1|gh:sullenfish,mdon:@sullenfish@mastodon.sdf.org,med:frederickostrander,pat:no-account,post:no-account,post:sullenfish,spout:no-account,ss:no-account,t:sullenfish,yt:@sullenfish|2023-04-06T16:52:00Z"
+}
